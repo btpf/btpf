@@ -2,7 +2,7 @@
 
 I like building software and webapps to solve issues I find in life. Here is a nice stats display for my profile
 
-![btpf's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=btpf&hide_border=true)![btpf's GitHub stats](https://github-readme-stats.vercel.app/api?username=btpf&count_private=true&show_icons=true&hide_border=true)
+![btpf's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=btpf&hide_border=true)![btpf's GitHub stats](https://github-readme-stats.vercel.app/api?username=btpf&count_private=true&show_icons=true&hide_border=true&include_all_commits=true)
 
 #### Projects
 Here is what I'm currently working on.
