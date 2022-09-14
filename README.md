@@ -1,13 +1,12 @@
-### Hi there 👋 Im Bret!
+### Hi, Im Bret 👋 
 
 I like building software and webapps to solve issues I find in life. Here is a nice stats display for my profile
 
-![btpf's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=btpf&hide_border=true)![btpf's GitHub stats](https://github-readme-stats.vercel.app/api?username=btpf&count_private=true&show_icons=true&hide_border=true&include_all_commits=true)
-
-#### Projects
+## Projects
 Here is what I'm currently working on.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=btpf&repo=Alexandria&theme=swift)](https://github.com/btpf/Alexandria)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=btpf&repo=Python-Notes&theme=swift)](https://github.com/btpf/Python-Notes)
 
 These are my previous hackathon projects
 
@@ -19,6 +18,9 @@ Here are smaller/earlier projects I've built
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=btpf&repo=MoneyAssistant)](https://github.com/btpf/MoneyAssistant)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=btpf&repo=ForceClose)](https://github.com/btpf/ForceClose)
 
+
+
+![btpf's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=btpf&hide_border=true)![btpf's GitHub stats](https://github-readme-stats.vercel.app/api?username=btpf&count_private=true&show_icons=true&hide_border=true&include_all_commits=true)
 <!--
 **btpf/btpf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
