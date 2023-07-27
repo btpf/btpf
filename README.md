@@ -21,7 +21,8 @@ Here are smaller/earlier projects I've built
 
 
 ## Stats
-![btpf's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=btpf&hide_border=true)![btpf's GitHub stats](https://github-readme-stats.vercel.app/api?username=btpf&count_private=true&show_icons=true&hide_border=true&include_all_commits=true)
+<div align="center"> <img height="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=btpf&layout=pie"></div>
+
 <!--
 **btpf/btpf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
