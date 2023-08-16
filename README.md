@@ -1,7 +1,5 @@
 ### Hi, Im Bret 👋 
 
-I like building software and webapps to solve issues I find in life. Here is a nice stats display for my profile
-
 ## Projects
 Here is what I'm currently working on.
 
