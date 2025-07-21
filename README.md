@@ -77,6 +77,30 @@
   </td>
 </tr>
 
+
+<tr>
+  <td>2015</td>
+            <td>⭐ 2</td>
+  <td>
+    <table>
+      <tr>
+        <td>
+          <a href="https://github.com/btpf/ForceClose">
+            <img height="40px" width="40px" src="https://github.com/user-attachments/assets/a7274a8b-5953-492f-b6a0-c47dd62542e6">
+          </a>
+        </td>
+        <td style="padding-left: 10px;">
+          <a href="https://github.com/btpf/ForceClose">
+            <strong>Force Close</strong><br>
+          </a>
+          <span>A Windows utility that kills unresponsive applications</span>
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>
+
+
 </table>
 
 
