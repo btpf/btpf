@@ -20,7 +20,7 @@ My Open Source:
       <tr>
         <td>
           <a href="https://github.com/btpf/GTA2DeckEdition">
-            <img height="40px" width="40px" src="https://private-user-images.githubusercontent.com/61168382/468460153-50e2803c-d84b-4d78-9684-c2994a5afaa6.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTMwNzQzODQsIm5iZiI6MTc1MzA3NDA4NCwicGF0aCI6Ii82MTE2ODM4Mi80Njg0NjAxNTMtNTBlMjgwM2MtZDg0Yi00ZDc4LTk2ODQtYzI5OTRhNWFmYWE2LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzIxVDA1MDEyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTAzZjljYTBmMjhkOWYyM2MyOTFhYWNmZDBhNjJhZGUzY2RjOTZhMzRkYjcxMjQwMmM5Njc3ZDUxMzI5YWZmYjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ZrenrNA6Ndiu9_PDaRrCx4bEnQ3aI8DPMUTiqshfeqw">
+            <img height="40px" width="40px" src="https://github.com/user-attachments/assets/50e2803c-d84b-4d78-9684-c2994a5afaa6">
           </a>
         </td>
         <td style="padding-left: 10px;">
