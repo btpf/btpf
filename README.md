@@ -1,8 +1,87 @@
 ### Hi, Im Bret 👋 
 
-## Projects
-Here is what I'm currently working on.
 
+
+## Projects
+
+<table align="center">
+<tr>
+  <th>Year</th>
+  <th>Stars</th>
+  <th>Project</th>
+</tr>
+
+<tr>
+  <td>2025</td>
+    <td>⭐ 1</td>
+  <td>
+    <table>
+      <tr>
+        <td>
+          <a href="https://github.com/btpf/GTA2DeckEdition">
+            <img height="40px" width="40px" src="https://private-user-images.githubusercontent.com/61168382/468460153-50e2803c-d84b-4d78-9684-c2994a5afaa6.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTMwNzQzODQsIm5iZiI6MTc1MzA3NDA4NCwicGF0aCI6Ii82MTE2ODM4Mi80Njg0NjAxNTMtNTBlMjgwM2MtZDg0Yi00ZDc4LTk2ODQtYzI5OTRhNWFmYWE2LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzIxVDA1MDEyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTAzZjljYTBmMjhkOWYyM2MyOTFhYWNmZDBhNjJhZGUzY2RjOTZhMzRkYjcxMjQwMmM5Njc3ZDUxMzI5YWZmYjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ZrenrNA6Ndiu9_PDaRrCx4bEnQ3aI8DPMUTiqshfeqw">
+          </a>
+        </td>
+        <td style="padding-left: 10px;">
+          <a href="https://github.com/btpf/GTA2DeckEdition">
+            <strong>GTA 2 - Deck Edition</strong><br>
+          </a>
+          <span>Steam Deck & Windows 11 Ready GTA 2</span>
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>
+
+<tr>
+  <td>2023</td>
+                <td>⭐ ~2,300</td>
+  <td>
+    <table>
+      <tr>
+        <td>
+          <a href="https://github.com/btpf/Alexandria">
+            <img height="40px" width="40px" src="https://raw.githubusercontent.com/btpf/Alexandria/main/public/resources/logo.svg">
+          </a>
+        </td>
+        <td style="padding-left: 10px;">
+          <a href="https://github.com/btpf/Alexandria">
+            <strong>Alexandria</strong><br>
+          </a>
+          <span>A minimalistic cross-platform eBook reader</span>
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>
+
+<tr>
+  <td>2022</td>
+            <td>⭐ 1</td>
+  <td>
+    <table>
+      <tr>
+        <td>
+          <a href="https://github.com/btpf/Python-Notes">
+            <h1>🧑‍🎓</h1>
+          </a>
+        </td>
+        <td style="padding-left: 10px;">
+          <a href="https://github.com/btpf/Python-Notes">
+            <strong>Python Notes</strong><br>
+          </a>
+          <span>Personal Python Notes</span>
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>
+
+</table>
+
+
+
+https://github.com/btpf/Python-Notes
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=btpf&repo=Alexandria&theme=swift)](https://github.com/btpf/Alexandria)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=btpf&repo=Python-Notes&theme=swift)](https://github.com/btpf/Python-Notes)
 
