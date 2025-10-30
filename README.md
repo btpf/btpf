@@ -80,7 +80,7 @@ My Open Source:
 
 <tr>
   <td>2022</td>
-            <td>⭐ 0</td>
+            <td>⭐ 1</td>
   <td>
     <table>
       <tr>
@@ -102,7 +102,7 @@ My Open Source:
 
 <tr>
   <td>2015</td>
-            <td>⭐ 2</td>
+            <td>⭐ 1</td>
   <td>
     <table>
       <tr>
