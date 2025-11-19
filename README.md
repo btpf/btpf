@@ -14,7 +14,7 @@ My Open Source:
 
 <tr>
   <td>2025</td>
-    <td>⭐ 1</td>
+    <td>⭐ 2</td>
   <td>
     <table>
       <tr>
@@ -36,7 +36,7 @@ My Open Source:
 
 <tr>
   <td>2023</td>
-                <td>⭐ ~2,300</td>
+                <td>⭐ ~2,500</td>
   <td>
     <table>
       <tr>
