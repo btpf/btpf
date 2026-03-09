@@ -4,7 +4,7 @@
 
 ## Projects
 
-My Open Source:
+My Open Source Projects:
 <table align="center">
 <tr>
   <th>Year</th>
@@ -124,9 +124,6 @@ My Open Source:
 
 
 </table>
-
-## Stats
-<div align="center"> <img height="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=btpf&layout=pie"></div>
 
 <!--
 **btpf/btpf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
