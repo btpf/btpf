@@ -11,10 +11,31 @@ My Open Source Projects:
   <th>Stars</th>
   <th>Project</th>
 </tr>
-
+<tr>
+  <td>2026</td>
+    <td>⭐ 2</td>
+  <td>
+    <table>
+      <tr>
+        <td>
+          <a href="https://github.com/btpf/re-payback">
+            <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/0450945b-bdd9-4915-98de-13b9a9941080" />
+          </a>
+        </td>
+        <td style="padding-left: 10px;">
+          <a href="https://github.com/btpf/re-payback">
+            <strong>Re-Payback</strong><br>
+          </a>
+          <span>Re-Implementation of Payback (2001, Amiga)</span>
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>
+  
 <tr>
   <td>2025</td>
-    <td>⭐ 2</td>
+    <td>⭐ 5</td>
   <td>
     <table>
       <tr>
@@ -36,7 +57,7 @@ My Open Source Projects:
 
 <tr>
   <td>2023</td>
-                <td>⭐ ~2,500</td>
+                <td>⭐ ~2,700</td>
   <td>
     <table>
       <tr>
